@@ -16,6 +16,7 @@
     ],
     "require": {
         "php": ">=8.0.2",
+        "ext-intl": "*",
         "twig/twig": "^3.13|^4.0",
         "symfony/intl": "^5.4|^6.4|^7.0"
     },
